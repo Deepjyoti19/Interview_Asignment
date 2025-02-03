@@ -1,0 +1,11 @@
+.data{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    background-color: aquamarine;
+    width:50vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:10px;
+}
